@@ -22,7 +22,7 @@ _...Also Save Images with White Rectangles in real-time with a click of a Button
 
 ```bash
 git clone https://github.com/ish-u/Invisibility-Cloak-init-day-1.git
-cd
+cd Invisibility-Cloak-init-day-1
 ```
 
 #### Create Virtual Environment and Install Packages
